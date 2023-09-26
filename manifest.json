@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Find 500 Differences",
+  "description": "Find 500 - Differences",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Find 500 Differences",
+  "name": "Find 500 - Differences",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Find 500 Differences",
+  "short_name": "Find 500 - Differences",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Find 500 Differences",
+      "name": "Find 500 - Differences",
       "url": "",
       "description": ""
     }
   ]
-}
+}0
